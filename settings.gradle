@@ -1,0 +1,1 @@
+include ':app', ':j_component_base'
